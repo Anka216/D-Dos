@@ -1,7 +1,6 @@
 
 
-ascii_banner = pyfiglet.figlet_format("D-DOS")
-print(ascii_banner)
+
 
 import random
 from scapy.all import *
